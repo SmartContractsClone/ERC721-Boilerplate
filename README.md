@@ -8,6 +8,7 @@ An ERC721 Boiler-plate code that allows users to mint the NFTs at a predefined p
 - User can mint NFT tokens sending predefined price.
 - User can donate the tokens to the smart contract.
 - Owner can withdraw the tokens from smart contract.
+- Owner can reveal the metadata which is hidden by default. Useful when creating the NFT drop.
 - The smart contract is integrated with opensea transfer approval and gaseless minting feature.
 
 ---------------------------------------------------
